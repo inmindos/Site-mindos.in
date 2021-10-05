@@ -1,0 +1,8 @@
+ 
+strong {
+	font-weight: bold;
+}
+
+.menu li.navitem {
+	line-height: 1.6rem;
+}

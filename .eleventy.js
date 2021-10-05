@@ -112,6 +112,11 @@ module.exports = function (eleventyConfig) {
         return format(date, "MMM dd, yyyy");
     });
 
+    // Add 0 padding to max 2 digits.
+    eleventyConfig.addNunjucksFilter("zeroPad", function (number) {
+        return ("00" + number).slice(-2);
+    });
+
     // Add custom hash for cache busting
     const hashes = new Map();
     eleventyConfig.addNunjucksFilter("addHash", function (absolutePath) {
@@ -136,7 +141,7 @@ module.exports = function (eleventyConfig) {
     eleventyConfig.addPlugin(require("./_11ty/external-links.js"));
 
     // Plugin for transforming images
-    eleventyConfig.addPlugin(require("./_11ty/srcset.js"));
+    // eleventyConfig.addPlugin(require("./_11ty/srcset.js")); // If this is on, the images with in the content folder will NOT work
 
     // Plugin for minifying HTML
     eleventyConfig.addPlugin(require("./_11ty/html-minify.js"));

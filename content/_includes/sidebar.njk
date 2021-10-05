@@ -11,19 +11,13 @@
         </div>
     </div>
     <div class="menu">
+        <h3 class="text-gray-200 pl-1">Contents</h3>
         <ul class="list-none pl-0">
-            <li class="navitem text-center uppercase {{ page.url | isHomeLink('/') }}">
-                <a href="/" class="block no-underline">Posts</a>
-            </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/who') }}">
-                <a href="/who/" class="block no-underline">Who</a>
-            </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/why') }}">
-                <a href="/why/" class="block no-underline">Why</a>
-            </li>
-            <li class="navitem text-center uppercase {{ page.url | isActiveLink('/archive') }}">
-                <a href="/archive/" class="block no-underline">Archive</a>
-            </li>
+            {% for post in collections.posts %}
+                <li class="navitem">
+                    <a href="{{ post.url }}" class="no-underline">{{ post.data.order | zeroPad }} - {{ post.data.title }}</a>
+                </li>
+            {% endfor %}
         </ul>
     </div>
     <div class="row-end-5 grid grid-cols-3 xl:grid-cols-6 gap-5 mx-auto place-content-end mb-12">
