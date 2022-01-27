@@ -1,21 +1,5 @@
 # MindOS
 
-## Commands needed
+[11ty](https://11ty.dev) based backend for [MindOS](https://mindos.in). 
 
-Run development server at [http://localhost:8080/](http://localhost:8080/)...
-
-```
-npm run dev
-```
-
-Build Website
-
-```
-npm run build
-```
-
-Deploy online
-
-```
-rsync -avze ssh "/mnt/x/Data/www/Sites/mindos/mindos.in/_site/" mindos@mindos.in:"/home/mindos/public_html/"
-```
+Code based on [11ty Chirpy Blog Template](https://github.com/muenzpraeger/eleventy-chirpy-blog-template)
