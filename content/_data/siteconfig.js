@@ -18,11 +18,12 @@ module.exports = {
     // sharing.
     openGraphDefaultImage: "/assets/images/opengraph.jpg",
     // GitHub ID (optional, remove it not needed), used for link in the left sidebar
-    socialGitHub: "binnyva",
+    socialGitHub: "",
     // LinkedIn ID  (optional, remove it not needed), used for link in the left sidebar
-    socialLinkedIn: "binnyva",
+    socialLinkedIn: "",
     // Twitter ID  (optional, remove it not needed), used for link in the left sidebar, and for OpenGraph sharing information
-    socialTwitter: "binnyva",
+    socialTwitter: "inmindos",
+    socialInstagram: "inmindos",
     // YouTube ID/Channel  (optional, remove it not needed), used for link in the left sidebar
     // socialYouTube: "UCH60RRaY2GI9m62z1loLjcA",
     // Google Analytics ID  (optional, remove it not needed), used for... well, Google Analytics
@@ -31,7 +32,7 @@ module.exports = {
     // See: https://github.com/algolia/algoliasearch-netlify
     algoliaSearch: {
         // When enabled shows the search bar in the UI
-        enabled: true,
+        enabled: false,
         // You'll have to set this manually in your build settings.
         // The value comes from Algolia, and is either visible in the
         // UI for the Crawler Plugin or the Algolia Dashboard.

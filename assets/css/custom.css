@@ -6,3 +6,13 @@ strong {
 .menu li.navitem {
 	line-height: 1.6rem;
 }
+
+.social-buttons svg {
+	height: 20px;
+	width: 20px;
+	display: inline;
+}
+.social-buttons ul {
+	list-style: disc;
+	margin-left: 20px;
+}
