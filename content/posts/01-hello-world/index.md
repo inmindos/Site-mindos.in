@@ -9,7 +9,7 @@ I have a rather big personal project - my current estimate says it will take me 
 
 I'm an engineer. **I always thought that humanity will solve its problems with technology**. But as I grew older, I understood that **we have figured out the technological solution to almost all our problems**. We don't have any big existential threats from our environment(as a matter of fact, now we are the existential threat to the environment). There is only one thing tech hasn't figured out yet - natural death. All other problems have solutions now - with very few exceptions.
 
-But the world is still no were close to perfect. There are quite a few problems. **People still die due to preventable causes** - things like poverty, preventable diseases, wars and many, many other issues.
+But the world is still nowhere close to perfect. There are quite a few problems. **People still die due to preventable causes** - things like poverty, preventable diseases, wars and many, many other issues.
 
 Technology has already figured out solutions to this - humanity can easily create all the food it wants. It can solve almost all communicable diseases. But these **problems still exist because people will have to decide to deploy the technology to solve that issue**. But the people who have to decide this, actively **decide to do the opposite**. Yes, this is an oversimplified version of a very complex situation - but you know I'm right.
 
@@ -22,18 +22,18 @@ There are many reasons for why people make the "wrong" decision. In my opinion, 
 
 ## 2. Nation States(Macro Level)
 
-People in power don't have the motivation to help people in desperate need because **they belong to another country**. This other-ing is a very strong programming in our mind - and its difficult to over come - especially when re-enforced with existing social institutions. Human behavior is not just driven by the programming in our brain - but also the programming in our environment.
+People in power don't have the motivation to help people in desperate need because **they belong to another country**. This other-ing is a very strong programming in our mind - and its difficult to overcome - especially when re-enforced with existing social institutions. Human behavior is not just driven by the programming in our brain - but also the programming in our environment.
 
-> The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology
+> "The real problem of humanity is the following: we have Paleolithic emotions, medieval institutions, and god-like technology."
 > Edward O. Wilson
 
-Nation states are a really old institution - at our level of communication infrastructure, we need a global nation. Just too many problems will get solved if this happens - including one that is a existential threat to humanity - a thermo-nuclear world war. The biggest wars are caused by the nation states ideology - including 100% of the world wars so far(yes, I know that there were only two of those - but 100% seems like a better way to illustrate my point).
+Nation states are a really old institution - at our level of communication infrastructure, we need a global nation. Just too many problems will get solved if this happens - including one that is a existential threat to humanity - a thermo-nuclear world war. The biggest wars are caused by the nation states ideology - including 100% of the world wars so far(yes, I know that there have been only two of those - but 100% seems like a better way to illustrate my point).
 
 ## 1. Wealth Inequality(Micro Level)
 
 Capitalism won out as surviving primary economic belief system. It was a good system at a lower communication level - it aligned people's motivations with a very quantifiable system. But now we can figure out better economic belief systems. Getting people to switch their belief system is the tricky part - especially if they are "winning" at capitalism. And unfortunately, their votes count way more than people in the other side.
 
-I chose this as the biggest problem over the many other problems. Over sexism, racism, communalism, casteism, homophobia - over everything. I would much rather be a rich person from a marginalized community than a poor person from a non-marginalized one. I would rather be a rich Dalit lady than a poor Brahmin dude(If you not from India, the example would be that I would rather be a rich lesbian black woman than a poor straight white guy). **Money solves a lot of problems - or at least reduces its threat** level greatly. If I had to prioritize one problem over all others, it would be wealth inequality.
+I will chose this as the biggest problem over the many other problems. Over sexism, racism, communalism, casteism, homophobia - over everything. I would much rather be a rich person from a marginalized community than a poor person from a non-marginalized one. I would rather be a rich Dalit lady than a poor Brahmin dude(If you not from India, the example would be that I would rather be a rich lesbian black woman than a poor straight white guy). **Money solves a lot of problems - or at least reduces its threat** level greatly. If I had to prioritize one problem over all others, it would be wealth inequality.
 
 ## A new Belief System
 
