@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^/zettelkasten-art-of-knowledge-managment/.*$ /zettelkasten-art-of-knowledge-management/
