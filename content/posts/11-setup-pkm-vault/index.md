@@ -18,7 +18,7 @@ Before you start, there are a few decisions to be made - the primary one being w
 - Notion
 - And more...
 
-A very common trap at this stage is to over analyse this decision. You can spend a lot of time trying out the different softwares, read up about it, etc. Doing that is understandable - but **it is distracting you from the one thing you should be doing - which is making notes**. Just start off with any one tool - you can change it later if need be(as long as you don't have too many notes). I started off using TiddlyWiki - then moved to Obsidian.
+A very common trap at this stage is to over analyze this decision. You can spend a lot of time trying out the different software, read up about it, etc. Doing that is understandable - but **it is distracting you from the one thing you should be doing - which is making notes**. Just start off with any one tool - you can change it later if need be(as long as you don't have too many notes). I started off using TiddlyWiki - then moved to Obsidian.
 
 The most important part of this stage is to start.
 
