@@ -1,2 +1,6 @@
-RewriteEngine on
-RewriteRule ^/zettelkasten-art-of-knowledge-managment/.*$ /zettelkasten-art-of-knowledge-management/
+ErrorDocument 404 /404.html
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteRule ^zettelkasten-art-of-knowledge-managment/(.*)$ /zettelkasten-art-of-knowledge-management/ [R=301,L]
+    RewriteRule ^z/?$ /zettelkasten-art-of-knowledge-management/ [R=301,L]
+</IfModule>
