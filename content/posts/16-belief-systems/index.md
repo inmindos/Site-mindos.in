@@ -2,7 +2,7 @@
 order: 16
 title: "Belief System Literature Review"
 date: 2024-10-11
-image: /assets/content/16-world-views.webp
+image: /assets/content/16-world-views.png
 ---
 
 After taking a long break from working on belief systems(and writing [a book](https://mindos.in/zettelkasten-art-of-knowledge-management/) in the meantime), I think it's time to get back to belief system. The problem that got me stuck was how to define the term 'Belief Systems'.
